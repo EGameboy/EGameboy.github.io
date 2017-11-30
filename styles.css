@@ -30,6 +30,7 @@
             padding: 10px;
             text-align: left;
             margin-top: 25px;
+            margin-bottom: 25px;
         }
         a:link, a:visited, a:active{
         color: white;
@@ -67,4 +68,7 @@
 .Navigation a:hover {
  color: blue;
  text-decoration: none;
-}     
+}   
+img{
+ text-align: center;
+}
